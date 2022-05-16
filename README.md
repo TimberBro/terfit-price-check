@@ -1,7 +1,7 @@
 # terfit-price-check
 
 # Purpose
-I'm too lazy to check price of nearest gym, so I decided to write simple parser, that will notify
+I'm too lazy to check price of nearest gym, so I decided to write simple util, that will notify
 me, when price will go down
 
 # How to use
